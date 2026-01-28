@@ -11,7 +11,6 @@ import java.util.LinkedHashMap;
 public class EmpruntDao {
 
 	public void create(Emprunt emprunt) {
-	    // La requête SQL inclut maintenant le cout_emprunt
 	    String sql = "INSERT INTO emprunts (livre_id, utilisateur_id, date_emprunt, date_retour_prevue, cout_emprunt) VALUES (?, ?, ?, ?, ?)";
 	    try (Connection conn = DatabaseManager.getConnection();
 	         PreparedStatement pstmt = conn.prepareStatement(sql)) {
