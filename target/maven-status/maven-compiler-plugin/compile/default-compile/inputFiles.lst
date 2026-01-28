@@ -1,0 +1,15 @@
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\dao\DatabaseManager.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\dao\EmpruntDao.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\dao\LivreDao.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\dao\UtilisateurDao.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\filters\AuthenticationFilter.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\models\Emprunt.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\models\Livre.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\models\Utilisateur.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\services\GeminiService.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\servlets\AuthServlet.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\servlets\DashboardServlet.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\servlets\EmpruntServlet.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\servlets\GestionUtilisateurServlet.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\servlets\LivreServlet.java
+F:\PFA Version Final ESSAID - INIRZ\BibliothequeAppV2\src\main\java\com\bibliotheque\servlets\ProfilServlet.java

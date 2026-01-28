@@ -1,0 +1,29 @@
+package com.bibliotheque.models;
+
+public class Utilisateur {
+    private int id;
+    private String nom;
+    private String email;
+    private String motDePasse;
+    private String role;
+    private double amendeTotale;
+    private String statut;
+
+    public Utilisateur() {}
+
+    // Getters and Setters 
+    public int getId() { return id; }
+    public void setId(int id) { this.id = id; }
+    public String getNom() { return nom; }
+    public void setNom(String nom) { this.nom = nom; }
+    public String getEmail() { return email; }
+    public void setEmail(String email) { this.email = email; }
+    public String getMotDePasse() { return motDePasse; }
+    public void setMotDePasse(String motDePasse) { this.motDePasse = motDePasse; }
+    public String getRole() { return role; }
+    public void setRole(String role) { this.role = role; }
+    public double getAmendeTotale() { return amendeTotale; }
+    public void setAmendeTotale(double amendeTotale) { this.amendeTotale = amendeTotale; }
+    public String getStatut() { return statut; }
+    public void setStatut(String statut) { this.statut = statut; }
+}
